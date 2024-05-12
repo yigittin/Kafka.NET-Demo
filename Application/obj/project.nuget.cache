@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lol7kQ3vWEyTxz4e5XZ+tMyB1GaxtB5qSoqZklqyvdOLSnhRFk4UJClLHELJmBRALtggZe2UXjkfGE5RIERWww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iyigi\\.nuget\\packages\\mongodb.bson\\2.25.0\\mongodb.bson.2.25.0.nupkg.sha512",
+    "C:\\Users\\iyigi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\iyigi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

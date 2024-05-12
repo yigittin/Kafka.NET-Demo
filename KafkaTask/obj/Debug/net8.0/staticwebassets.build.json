@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DPvV0sE27lO3BHvWX5BibQE3myI2XhwoPjZqgjmSpkQ=",
+  "Source": "KafkaTask",
+  "BasePath": "_content/KafkaTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

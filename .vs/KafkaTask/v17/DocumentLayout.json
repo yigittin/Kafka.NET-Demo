@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkaconsumer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkaconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkaconsumer\\service\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\service\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkatask\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|solutionrelative:kafkatask\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkatask\\kafkatask.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|solutionrelative:kafkatask\\kafkatask.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkatask\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|solutionrelative:kafkatask\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|solutionrelative:kafkatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkatask\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|solutionrelative:kafkatask\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|solutionrelative:kafkatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkaconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkatask\\kafkatask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C07EF360-D840-4459-8187-1E4CFBE6580B}|KafkaTask\\KafkaTask.csproj|solutionrelative:kafkatask\\kafkatask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkaconsumer\\kafkaconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\kafkaconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FD718D-F071-49B3-9ADA-C4CC9ACBFB9E}|Persistance\\Persistance.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\persistance\\repository\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FD718D-F071-49B3-9ADA-C4CC9ACBFB9E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repository\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FD718D-F071-49B3-9ADA-C4CC9ACBFB9E}|Persistance\\Persistance.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\persistance\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FD718D-F071-49B3-9ADA-C4CC9ACBFB9E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkaconsumer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\kafkaconsumer\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFE0C6D-3047-4028-8BF4-19AAEDE4A2F9}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FD718D-F071-49B3-9ADA-C4CC9ACBFB9E}|Persistance\\Persistance.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\persistance\\repository\\log\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FD718D-F071-49B3-9ADA-C4CC9ACBFB9E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\repository\\log\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74C3B22-6C2D-41F8-B4D3-188B8BAE6F2D}|Application\\Application.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\application\\mongodb\\log\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74C3B22-6C2D-41F8-B4D3-188B8BAE6F2D}|Application\\Application.csproj|solutionrelative:application\\mongodb\\log\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F86CC0-F928-4652-A6D5-F9876772CEA1}|Core\\Core.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\core\\entities\\logentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F86CC0-F928-4652-A6D5-F9876772CEA1}|Core\\Core.csproj|solutionrelative:core\\entities\\logentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F86CC0-F928-4652-A6D5-F9876772CEA1}|Core\\Core.csproj|c:\\users\\iyigi\\source\\repos\\kafkatask\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F86CC0-F928-4652-A6D5-F9876772CEA1}|Core\\Core.csproj|solutionrelative:core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaTask.http",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\KafkaTask.http",
+              "RelativeDocumentMoniker": "KafkaTask\\KafkaTask.http",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\KafkaTask.http",
+              "RelativeToolTip": "KafkaTask\\KafkaTask.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-12T16:20:11.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\appsettings.json",
+              "RelativeToolTip": "KafkaTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T15:37:06.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\Dockerfile",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Dockerfile",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\Dockerfile",
+              "RelativeToolTip": "KafkaConsumer\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T15:18:43.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\Service\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Service\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\Service\\KafkaConsumerService.cs",
+              "RelativeToolTip": "KafkaConsumer\\Service\\KafkaConsumerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:48:05.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\Service.cs",
+              "RelativeDocumentMoniker": "KafkaTask\\Service.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\Service.cs",
+              "RelativeToolTip": "KafkaTask\\Service.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wDEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:43:43.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaConsumer\\appsettings.json",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\appsettings.json",
+              "RelativeToolTip": "KafkaConsumer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T14:04:23.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Persistance\\Repository\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Repository\\MongoRepository.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Persistance\\Repository\\MongoRepository.cs",
+              "RelativeToolTip": "Persistance\\Repository\\MongoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:54:29.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\Dockerfile",
+              "RelativeDocumentMoniker": "KafkaTask\\Dockerfile",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\Dockerfile",
+              "RelativeToolTip": "KafkaTask\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T13:30:50.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaTask\\Program.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\Program.cs",
+              "RelativeToolTip": "KafkaTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:37:46.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KafkaConsumer",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\KafkaConsumer.csproj",
+              "RelativeDocumentMoniker": "KafkaConsumer\\KafkaConsumer.csproj",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\KafkaConsumer.csproj",
+              "RelativeToolTip": "KafkaConsumer\\KafkaConsumer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T15:26:14.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\Program.cs",
+              "RelativeToolTip": "KafkaConsumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:52:46.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "KafkaTask\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "KafkaTask\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:24:30.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KafkaTask",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\KafkaTask.csproj",
+              "RelativeDocumentMoniker": "KafkaTask\\KafkaTask.csproj",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaTask\\KafkaTask.csproj",
+              "RelativeToolTip": "KafkaTask\\KafkaTask.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T15:30:39.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Persistance\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Persistance\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Persistance\\MongoDBSettings.cs",
+              "RelativeToolTip": "Persistance\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:03:58.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\Controllers\\LogController.cs",
+              "RelativeToolTip": "KafkaConsumer\\Controllers\\LogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:37:56.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KafkaConsumer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\KafkaConsumer\\appsettings.Development.json",
+              "RelativeToolTip": "KafkaConsumer\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T15:07:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Persistance\\Repository\\Log\\LogRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Repository\\Log\\LogRepository.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Persistance\\Repository\\Log\\LogRepository.cs",
+              "RelativeToolTip": "Persistance\\Repository\\Log\\LogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:07:10.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Application\\MongoDB\\Log\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "Application\\MongoDB\\Log\\ILogRepository.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Application\\MongoDB\\Log\\ILogRepository.cs",
+              "RelativeToolTip": "Application\\MongoDB\\Log\\ILogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:07:29.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:44:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogEntity.cs",
+              "DocumentMoniker": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Core\\Entities\\LogEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\LogEntity.cs",
+              "ToolTip": "C:\\Users\\iyigi\\source\\repos\\KafkaTask\\Core\\Entities\\LogEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\LogEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:43:46.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
